@@ -1,0 +1,9 @@
+{
+  "_note": "Seed lexicon. Extend each category with native-script and romanised terms for all 8 languages.",
+  "religion": ["hindu", "muslim", "christian", "sikh", "jain", "temple", "mosque", "church", "mandir", "masjid"],
+  "caste_community": ["caste", "dalit", "brahmin", "reddy", "kamma", "kapu", "tribal", "community", "jaati", "kulam"],
+  "politics": ["bjp", "congress", "ycp", "tdp", "brs", "dmk", "aap", "modi", "rahul", "minister", "party", "govt", "neta"],
+  "slurs": ["idiot", "stupid", "fool", "moron", "bastard", "pagal", "kutta", "kukka", "donga", "waste", "bewakoof"],
+  "threats": ["kill", "beat", "attack", "destroy", "burn", "maar", "champestha", "kottu", "finish", "die"],
+  "gender": ["woman", "women", "girl", "aunty", "ladies", "ammayi", "ladki"]
+}
